@@ -2,24 +2,24 @@
 The efficient frontier is the set of optimal portfolios that offer the highest expected return for a defined level of risk or the lowest risk for a given level of expected return
 
 ### input:
-   * start_day: Initial Day for the historical retrieve of data
+   1. start_day: Initial Day for the historical retrieve of data
    
-   * end_day: Last Day for the historical data
+   2. end_day: Last Day for the historical data
    
-   * Ticker Filename:
+   3. ticker Filename:
    
-           * Nasdaq-list ->  More than 5000 stocks -> nasdaq_list.csv
+           3.1. Nasdaq-list ->  More than 5000 stocks -> nasdaq_list.csv
            
-           * S&P500 -> sp_500.csv
+           3.2. S&P500 -> sp_500.csv
            
-           * Nasdaq-100 -> nq_100.csv
+           3.3. Nasdaq-100 -> nq_100.csv
            
            
    
 ### OUTPUT:
-   * df_markowitz: Markowitz efficient frontier data for the historical data selected
+   1. df_markowitz: Data fram for the Markowitz efficient frontier stocks for the historical data selected
    
-   * df_Index: Lata Frame for all the sp500 with the risk/return data for the historical data selected
+   2. df_Index: Data Frame for all stocks selected with the risk/return data for the historical data selected
 
 
 #### Daily time frame was choose
