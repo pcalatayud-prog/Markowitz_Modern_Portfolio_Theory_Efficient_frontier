@@ -1,4 +1,4 @@
-# Markowitz_Efficient_frontier
+# Markowitz Efficient Frontier
 The efficient frontier is the set of optimal portfolios that offer the highest expected return for a defined level of risk or the lowest risk for a given level of expected return
 
 ### input:
@@ -22,4 +22,4 @@ The efficient frontier is the set of optimal portfolios that offer the highest e
    2. df_Index: Data Frame for all stocks selected with the risk/return data for the historical data selected
 
 
-####time frame -> Daily
+#### Time Frame -> Daily
