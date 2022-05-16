@@ -7,8 +7,11 @@ The efficient frontier is the set of optimal portfolios that offer the highest e
    * end_day: Last Day for the historical data
    
    * Ticker Filename:
-           * Nasdaq-list -> nasdaq_list.csv
+   
+           * Nasdaq-list ->  More than 5000 stocks -> nasdaq_list.csv
+           
            * S&P500 -> sp_500.csv
+           
            * Nasdaq-100 -> nq_100.csv
            
            
