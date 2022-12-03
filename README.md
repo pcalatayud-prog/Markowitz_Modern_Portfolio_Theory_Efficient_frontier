@@ -1,6 +1,8 @@
 # Markowitz Efficient Frontier
 The efficient frontier is the set of optimal portfolios that offer the highest expected return for a defined level of risk or the lowest risk for a given level of expected return
 
+#Value at Risk (VaR) and Expected Shortfall (ES) are calculated too. 
+
 ### input:
    1. start_day: Initial Day for the historical retrieve of data
    
@@ -23,3 +25,5 @@ The efficient frontier is the set of optimal portfolios that offer the highest e
 
 
 #### Time Frame -> Daily
+
+
